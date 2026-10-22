@@ -1,23 +1,25 @@
 # DavidOS Builder
 
-**Python Development | Workflow Automation | Document Management**
+**Python · Tkinter · Git · Document Management · Workflow Automation**
 
-DavidOS Builder is a Windows desktop application I've been developing and testing to safely manage an interconnected knowledge system built with Obsidian.
+DavidOS Builder is a desktop application I am developing to maintain and update an interconnected Obsidian knowledge vault. It addresses a practical problem: how to manage many linked documents while reducing accidental changes and making updates easier to inspect and recover.
 
-The project began with a practical challenge: maintaining hundreds of interconnected documents while minimizing errors, broken references, and accidental data loss.
+## What the application does
 
-Using Python and Tkinter, I've developed a working application with several key capabilities:
+- **Vault dashboard:** Displays vault information, Markdown document counts, recent document activity, and Git status.
+- **Safe Update Engine:** Validates update packages and previews proposed `ADD`, `REPLACE`, and `DELETE` operations before applying changes.
+- **Recovery-oriented updates:** Includes backup, rollback, and transaction-report mechanisms for safer file maintenance.
+- **Release Manager:** Provides an interface to select documents and prepare named release packages.
+- **Validation and testing:** Checks for unsafe paths, invalid operations, and other package errors, supported by automated tests.
 
-- **Vault monitoring:** Inspects documents, modification activity, and Git repository status.
-- **Controlled updates:** Validates and previews file additions, replacements, and deletions before execution.
-- **Data protection:** Implements recovery backups, rollback procedures, and transaction logging.
-- **Error prevention:** Identifies invalid operations, unsafe file paths, and conflicting changes.
-- **Testing:** Uses automated tests and isolated environments to verify functionality.
+## How I developed it
 
-### Development & Practical Value
+I direct the project through an iterative, AI-assisted development process: defining requirements, reviewing implementation choices, testing, troubleshooting, and refining the workflow. My operations and legal-support background informs the emphasis on accuracy, accountability, and recoverability.
 
-Through an iterative, AI-assisted development process, I've defined requirements, guided implementation, tested functionality, troubleshot issues, and refined the application.
+## Current status
 
-Drawing on my background in operations management and process improvement, I've focused on making document maintenance more reliable, transparent, and recoverable.
+**Working prototype under active development.** The application runs as a Python/Tkinter desktop interface. Its current screens include **Vault Details**, **Safe Update Engine**, and **DavidOS Release Manager**. I have run the application in a GitHub Codespace through a virtual graphical display to inspect its actual interface.
 
-**Current Status:** Functional application under active development, with implemented and tested capabilities. Source code remains private while public demonstrations are prepared.
+The source repository is private. This public overview describes the project without publishing its code.
+
+*Screenshots of the working interface will be added to this overview separately.*
