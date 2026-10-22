@@ -1,10 +1,14 @@
 # David C. Nesbitt
 
-**Sales & Operations Leadership · Customer Relationships · Practical Technology Projects**
+**Sales & Operations Leadership | Client Relations | Technology & Automation**
 
-I'm a Rochester-area professional whose work has spanned high-performing sales, team leadership, business operations, customer service, and legal support. Across those roles, I've focused on understanding people's needs, improving how work gets done, and following through on the details.
+I'm an award-winning sales and operations professional with experience spanning team leadership, customer relationship management, legal services, and business operations. My career includes company-wide recognition for sales performance, supervising teams of 10–14 employees, and delivering exceptional service across thousands of customer interactions.
 
-I'm also building my technical skills through hands-on projects involving Python, Git, structured documentation, and the practical use of AI and automation.
+Today, I'm expanding that experience into technology through hands-on software development, Python programming, workflow automation, and AI-assisted problem-solving.
+
+My current project, **DavidOS Builder**, is a working desktop application I've developed to manage complex document systems, validate updates, protect against data loss, and improve operational reliability.
+
+I'm particularly interested in opportunities where business experience, leadership, customer relationships, and emerging technology intersect.
 
 ## Professional background
 
