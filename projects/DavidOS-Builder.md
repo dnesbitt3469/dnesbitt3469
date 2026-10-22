@@ -22,4 +22,8 @@ I direct the project through an iterative, AI-assisted development process: defi
 
 The source repository is private. This public overview describes the project without publishing its code.
 
-*Screenshots of the working interface will be added to this overview separately.*
+## Application screenshot
+
+![DavidOS Builder — Safe Update Engine interface](DavidOS-Builder-Safe-Update-Engine.png)
+
+*Actual application interface captured during a GitHub Codespaces session.*
