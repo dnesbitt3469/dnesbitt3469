@@ -8,7 +8,7 @@ I'm also building my technical skills through hands-on projects involving Python
 
 ## Professional background
 
-- **Sales and customer relationships:** Earned company-wide **Salesperson of the Year** and **Employee of the Year** honors at Delta Sonic in 2006, across an organization with 28 locations. Consistently ranked among leading weekly sales performers.
+- **Sales and customer relationships:** Earned company-wide **Salesperson of the Year** and **Employee of the Year** honors at Delta Sonic, recognized across an organization with 28 locations. Consistently ranked among leading weekly sales performers.
 - **Team leadership and operations:** Supervised teams of **10–14 employees** in a busy service environment, with responsibility for hiring, training, coaching, scheduling, customer escalations, and day-to-day operations.
 - **Legal support and analytical work:** Worked as a foreclosure paralegal, coordinating with attorneys and financial institutions while handling legal research, case management, sensitive documentation, and deadlines.
 - **Independent customer service:** Provided service to **2,000+ rideshare customers** while maintaining a **4.96 customer rating**, managing scheduling, logistics, and customer needs independently.
