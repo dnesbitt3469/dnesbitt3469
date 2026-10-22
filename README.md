@@ -13,21 +13,15 @@ I'm also building my technical skills through hands-on projects involving Python
 - **Legal support and analytical work:** Worked as a foreclosure paralegal, coordinating with attorneys and financial institutions while handling legal research, case management, sensitive documentation, and deadlines.
 - **Independent customer service:** Provided service to **2,000+ rideshare customers** while maintaining a **4.96 customer rating**, managing scheduling, logistics, and customer needs independently.
 
-## What I'm building
+## Featured project
 
-### DavidOS & DavidOS Builder
+### [DavidOS Builder — Python Desktop Application](projects/DavidOS-Builder.md)
 
-An evolving personal knowledge and workflow-management project, with an accompanying **Python desktop application** designed to help maintain an Obsidian-based knowledge vault.
+An independently developed and tested Windows application for safely maintaining an Obsidian knowledge vault, with update previews, validation, recovery backups, rollback, and automated tests.
 
-Areas of development include:
+**[Read the project overview →](projects/DavidOS-Builder.md)**
 
-- Organizing and maintaining structured Markdown documentation
-- Validating and previewing proposed file updates before applying them
-- Supporting safer changes, backups, and reproducible workflows
-- Working with Git and GitHub for version control
-- Exploring opportunities for thoughtful AI assistance and automation
-
-*These projects are currently developed in private repositories. I plan to share selected work publicly as it becomes suitable for a portfolio.*
+*Development source code is private. The public overview documents the work without exposing the underlying repository.*
 
 ## Technology interests
 
