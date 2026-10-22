@@ -19,6 +19,8 @@ I'm also building my technical skills through hands-on projects involving Python
 
 An independently developed and tested Windows application for safely maintaining an Obsidian knowledge vault, with update previews, validation, recovery backups, rollback, and automated tests.
 
+![DavidOS Builder Safe Update Engine — actual application screenshot](projects/DavidOS-Builder-Safe-Update-Engine.png)
+
 **[Read the project overview →](projects/DavidOS-Builder.md)**
 
 *Development source code is private. The public overview documents the work without exposing the underlying repository.*
