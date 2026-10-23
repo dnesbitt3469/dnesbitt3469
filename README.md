@@ -2,6 +2,8 @@
 
 **Sales & Operations Leadership | Client Relations | Technology & Automation**
 
+**[View Professional Résumé (PDF)](David_C_Nesbitt_Professional_Resume.pdf)**
+
 I'm an award-winning sales and operations professional with experience spanning team leadership, customer relationship management, legal services, and business operations. My career includes company-wide recognition for sales performance, supervising teams of 10–14 employees, and delivering exceptional service across thousands of customer interactions.
 
 Today, I'm expanding that experience into technology through hands-on software development, Python programming, workflow automation, and AI-assisted problem-solving.
