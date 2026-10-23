@@ -44,8 +44,8 @@ I'm especially interested in work that combines **customer success, sales, opera
 ## Connect
 
 - **Professional email:** [david.c.nesbitt@proton.me](mailto:david.c.nesbitt@proton.me)
-- **LinkedIn:** [David C. Nesbitt](https://www.linkedin.com/in/david-nesbitt-7a13a578)
+- **LinkedIn:** [David C. Nesbitt](https://www.linkedin.com/in/david-c-nesbitt/)
 
 ---
 
-*Based in the Rochester, New York area.*
+*Based in Churchville, New York.*
