@@ -25,6 +25,15 @@ Preserve demonstrated sales excellence, employee development, leadership, and bu
 
 **Primary goal:** Demonstrate how established business, analytical, and operational abilities translate into technology-oriented work.
 
+### Four Governing Pillars
+
+1. **Professional accomplishments:** Award-winning sales performance, leadership, employee development, and operational responsibilities.
+2. **Analytical abilities:** Legal research, independent judgment, problem-solving, and navigating complicated situations.
+3. **Technical adaptability:** Experience with specialized software, enterprise systems, electronic workflows, and learning unfamiliar technologies.
+4. **Emerging technology interests:** Work with DavidOS Builder, Python, GitHub, and a growing interest in artificial intelligence and automation.
+
+**Governing principle:** The GitHub résumé presents an accomplished business professional whose analytical abilities and technical adaptability support opportunities where business and emerging technology intersect. It is not intended to present me primarily as a software developer. Technical projects provide supporting evidence; they do not replace my professional accomplishments.
+
 - Emphasize systems thinking, structured problem-solving, technical adaptability, and continuous learning.
 - Include relevant technology skills and evidence from actual projects.
 - Use DavidOS Builder and other documented work to demonstrate technical initiative.
