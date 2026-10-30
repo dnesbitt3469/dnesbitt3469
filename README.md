@@ -6,9 +6,9 @@
 
 I'm an award-winning sales and operations professional with experience spanning team leadership, customer relationship management, legal services, and business operations. My career includes company-wide recognition for sales performance, supervising teams of 10–14 employees, and delivering exceptional service across thousands of customer interactions.
 
-Today, I'm expanding that experience into technology through hands-on software development, Python programming, workflow automation, and AI-assisted problem-solving.
+Today, I'm exploring practical uses of technology through AI-assisted projects, structured documentation, and workflow improvement.
 
-My current project, **DavidOS Builder**, is a working desktop application I've developed to manage complex document systems, validate updates, protect against data loss, and improve operational reliability.
+My current project, **DavidOS Builder**, is a working desktop application developed through an AI-assisted process that I direct: defining requirements, reviewing implementation choices, testing behavior, and refining safeguards for document updates.
 
 I'm particularly interested in opportunities where business experience, leadership, customer relationships, and emerging technology intersect.
 
@@ -17,13 +17,13 @@ I'm particularly interested in opportunities where business experience, leadersh
 - **Sales and customer relationships:** Earned company-wide **Salesperson of the Year** and **Employee of the Year** honors at Delta Sonic, recognized across an organization with 28 locations. Consistently ranked among leading weekly sales performers.
 - **Team leadership and operations:** Supervised teams of **10–14 employees** in a busy service environment, with responsibility for hiring, training, coaching, scheduling, customer escalations, and day-to-day operations.
 - **Legal support and analytical work:** Worked as a foreclosure paralegal, coordinating with attorneys and financial institutions while handling legal research, case management, sensitive documentation, and deadlines.
-- **Independent customer service:** Provided service to **2,000+ rideshare customers** while maintaining a **4.96/5 customer rating**, managing scheduling, logistics, and customer needs independently.
+- **Independent customer service:** Completed **more than 5,000 rides**, managing scheduling, logistics, and customer service independently.
 
 ## Featured project
 
 ### [DavidOS Builder — Python Desktop Application](projects/DavidOS-Builder.md)
 
-An independently developed and tested Windows application for safely maintaining an Obsidian knowledge vault, with update previews, validation, recovery backups, rollback, and automated tests.
+An AI-assisted Windows application project focused on maintaining an Obsidian knowledge vault, with update previews, validation, recovery backups, rollback, and automated tests. My contribution includes requirements, workflow decisions, hands-on testing, and iterative refinement.
 
 ![DavidOS Builder Safe Update Engine — actual application screenshot](projects/DavidOS-Builder-Safe-Update-Engine.png)
 
